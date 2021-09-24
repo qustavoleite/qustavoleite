@@ -1,5 +1,3 @@
-# oi, meu nome é gustavo
-
 ```javascript
 let qustavoleite = {
   aboutMe: 'Sou aspirante a técnico em Informática e entusiasta em desenvolvimento Front-end.',
