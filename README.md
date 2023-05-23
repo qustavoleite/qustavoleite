@@ -1,6 +1,6 @@
 ```javascript
 let qustavoleite = {
-  aboutMe: 'Sou técnico em Informática e estudante de desenvolvimento Front-end.',
+  aboutMe: 'Sou técnico em Informática e entusiasta de desenvolvimento Front-end.',
   interestedIn: ['SASS', 'React', 'NodeJS', 'Ui/Ux'],
   myStack: ['HTML', 'CSS', 'Javascript']
 };
