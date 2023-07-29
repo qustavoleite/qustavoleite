@@ -1,6 +1,7 @@
 ```javascript
 let qustavoleite = {
-  aboutMe: 'Sou graduando em Análise e Desenvolvimento de Sistemas, Técnico em Informática e entusiasta de desenvolvimento Front-end.',
+  aboutMe: 'Sou graduando em Análise e Desenvolvimento de Sistemas, Técnico em Informática
+  e entusiasta de desenvolvimento Front-end.',
   interestedIn: ['React', 'NodeJS', 'NextJs', 'Tailwind', 'Ui/Ux'],
   myStack: ['HTML', 'CSS', 'Javascript', 'Git', 'Figma']
 }
