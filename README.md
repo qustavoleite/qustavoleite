@@ -1,7 +1,7 @@
 ```javascript
 let qustavoleite = {
   name: "Gustavo Leite",
-  bio: "Graduando em Análise e Desenvolvimento de Sistemas, Técnico em Informática e entusiasta de Desenvolvimento Front-end.",
+  bio: "Graduando em análise e desenvolvimento de sistemas, técnico em informática e desenvolvedor front-end.",
   skills: {
     frontend: ["JavaScript", "React", "NextJs", "Tailwind", "Sass", "UI/UX"],
     backend: ["NodeJs"],
