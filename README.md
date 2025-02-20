@@ -1,8 +1,13 @@
 ```javascript
 let qustavoleite = {
-  aboutMe: 'Graduando em Análise e Desenvolvimento de Sistemas e Técnico em Informática.',
-  interestedIn: ['React', 'NodeJS', 'NextJs', 'Tailwind'],
-  myStack: ['HTML', 'CSS', 'Javascript', 'Git', 'Figma', 'Ui/Ux']
+  name: "Gustavo Leite",
+  bio: "Técnico em Informática e graduando em Análise e Desenvolvimento de Sistemas. Apaixonado por tecnologia, busco constantemente aprender e resolver problemas de forma eficiente para entregar soluções de qualidade.",
+  skills: {
+    frontend: ["JavaScript", "React", "NextJs", "Tailwind", "Sass", "UI/UX"],
+    backend: ["NodeJs"],
+    database: ["MySQL", "PostgreSQL"],
+    tools: ["Git", "Figma", "Postman"]
+  }
 }
 ```
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=qustavoleite&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true"/> <img width="50%" src="https://github-readme-stats.vercel.app/api?username=qustavoleite&show_icons=true&theme=dark&hide_border=true"/>
