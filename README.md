@@ -1,7 +1,7 @@
 ```javascript
 let qustavoleite = {
   name: "Gustavo Leite",
-  bio: "Técnico em Informática e graduando em Análise e Desenvolvimento de Sistemas. Apaixonado por tecnologia, busco constantemente aprender e resolver problemas de forma eficiente para entregar soluções de qualidade.",
+  bio: "Graduando em Análise e Desenvolvimento de Sistemas, Técnico em Informática e entusiasta de Desenvolvimento Front-end.",
   skills: {
     frontend: ["JavaScript", "React", "NextJs", "Tailwind", "Sass", "UI/UX"],
     backend: ["NodeJs"],
