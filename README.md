@@ -1,16 +1,14 @@
-## 👋 Welcome!
-I am an information technology technician, frontend developer, and currently<br>pursuing a degree in systems analysis and development. Focused on learning<br>new technologies and developing practical projects. <!-- Sometimes
-i write on <a href="https://dev.to/qustavoleite">Dev.to</a>.<br>Check out my <a href="">Portfolio</a>.-->
+## 👋 Bem-vindo!
+Sou desenvolvedor frontend, técnico em informática e atualmente graduando<br>em análise e desenvolvimento de sistemas. Tenho foco em aprender novas<br> tecnologias e desenvolver projetos práticos. <!-- Às vezes escrevo no <a href="https://dev.to/qustavoleite">Dev.to</a>.<br>Confira meus proejtos: <a href="">Portfolio</a>.-->
 
-
-### Work with
+### Ferramentas e tecnologias
 <hr>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,js,react,typescript,next,)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,git,docker,postman,figma,vite)](https://skillicons.dev)
 
-### You can talk to me at
+### Contatos
 
 <hr>
 
