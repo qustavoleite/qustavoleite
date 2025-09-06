@@ -18,7 +18,5 @@ Sou desenvolvedor frontend, técnico em informática e atualmente graduando<br>e
   <summary>Github Status</summary>
     <div align="start">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qustavoleite&layout=compact&theme=dark&hide_border=true" /> <img height="200em" src="https://github-readme-stats.vercel.app/api?username=qustavoleite&layout=compact&theme=dark&hide_border=true" />
-
-  ![Profile views](https://komarev.com/ghpvc/?username=qustavoleite&color=000000)
   </div>
 </details>
