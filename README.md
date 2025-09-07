@@ -1,5 +1,5 @@
 ## 👋 Bem-vindo!
-Sou desenvolvedor frontend, técnico em informática e atualmente graduando<br>em análise e desenvolvimento de sistemas. Tenho foco em aprender novas<br> tecnologias e desenvolver projetos práticos.<!-- Às vezes escrevo no <a href="https://dev.to/qustavoleite">Dev.to</a>.<br>Confira meus proejtos: <a href="">Portfolio</a>.-->
+Sou desenvolvedor frontend, técnico em informática e atualmente graduando<br>em análise e desenvolvimento de sistemas. Tenho foco em aprender novas<br> tecnologias e desenvolver projetos práticos.<!--Confira meus projetos: <a href="">Portfolio</a>.-->
 
 ### Ferramentas e tecnologias
 
